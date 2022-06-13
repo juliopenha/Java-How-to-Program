@@ -1,0 +1,3 @@
+Quais instruções Java a seguir contêm variáveis cujos valores são modificados?
+  a) p = i + j + k + 7;
+  d) value = input.nextInt();

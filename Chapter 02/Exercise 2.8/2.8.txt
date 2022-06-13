@@ -1,0 +1,9 @@
+2.8) Escreva instruções Java que realizem cada uma das seguintes tarefas:
+a) Exibir a mensagem “Enter an integer: “, deixando o cursor na mesma linha.
+  System.out.print("Enter an integer: ");
+
+b) Atribuir o produto de variáveis b e c para a variável a.
+  a = b * c;
+
+c) Utilizar um comentário para afirmar que um programa executa um cálculo de exemplo de folha de pagamento.
+  // O programa executa um cálculo de exemplo de folha de pagamento.
