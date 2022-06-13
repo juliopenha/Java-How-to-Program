@@ -1,0 +1,12 @@
+2.9) Determine se cada uma das seguintes afirmações é verdadeira ou falsa. Se falsa, explique por quê.
+a) Operadores Java são avaliados da esquerda para a direita.
+  Falso, o operador de atribuição (=) é avaliado da direita para esquerda.
+
+b) Os seguintes nomes são todos de variável válidos: _under_bar_, m928134, t5, j7, her_sales$, his_$account_total, a, b$, c, z e z2.
+  Verdadeiro, mas não é recomendado.
+
+c) Uma expressão aritmética Java válida sem parênteses é avaliada da esquerda para a direita.
+  Falso, a expressão sempre é avaliada de acordo com a precedência de operadores.
+
+d) Os seguintes nomes são todos de variável inválidos: 3g, 87, 67h2, h22 e 2h.
+  Falso, h22 é um nome válido.

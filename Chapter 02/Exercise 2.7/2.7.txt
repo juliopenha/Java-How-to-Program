@@ -1,0 +1,7 @@
+a) Comentários são utilizados para documentar um programa e aprimorar sua legibilidade.
+b) Uma decisão pode ser tomada em um programa Java com uma instrução de seleção if.
+c) Os cálculos normalmente são realizados pelas instruções de atribuição.
+d) Os operadores aritméticos com a mesma precedência da multiplicação são divisão (/) e resto da divisão (%).
+e) Quando parênteses em uma expressão aritmética estão aninhados, o conjunto de parênteses mais interno é avaliado primeiro.
+f) Uma posição na memória do computador que pode conter valores diferentes várias vezes ao longo da execução de um programa é
+chamada variável. 
